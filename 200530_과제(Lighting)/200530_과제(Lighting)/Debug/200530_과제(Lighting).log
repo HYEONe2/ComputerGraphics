@@ -1,0 +1,21 @@
+﻿  BitmapClass.cpp
+  CameraClass.cpp
+  ColorShaderClass.cpp
+  CpuClass.cpp
+  D3DClass.cpp
+  FontClass.cpp
+  FontShaderClass.cpp
+  FpsClass.cpp
+  GraphicsClass.cpp
+  InputClass.cpp
+  LightClass.cpp
+  LightShaderClass.cpp
+  Main.cpp
+  ModelClass.cpp
+  SystemClass.cpp
+  TextClass.cpp
+  TextureClass.cpp
+  TextureShaderClass.cpp
+  TimerClass.cpp
+  코드를 생성하고 있습니다...
+  200530_과제(Lighting).vcxproj -> D:\STUDY\University\Junior\Computer Graphics\200530_과제(Lighting)\Debug\200522_과제(Lighting).exe
